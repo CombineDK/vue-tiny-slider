@@ -1,5 +1,5 @@
 {
-  "name": "vue-tiny-slider",
+  "name": "combine-vue-tiny-slider",
   "version": "0.1.38",
   "description": "Vanilla javascript slider for all purposes created by ganlanyuan in Vue.",
   "main": "./dist/index.js",
