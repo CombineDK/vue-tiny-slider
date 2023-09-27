@@ -11,8 +11,8 @@ var VueTinySlider = {
 		'touchMove',
 		'touchEnd',
 		'dragStart',
-		'dragMove',
-		'dragEnd'
+		'dragmove',
+		'dragend'
 	],
 	props: {
 		mode: {
